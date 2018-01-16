@@ -56,7 +56,7 @@
 # 3. FUNCTIONAL ANNOTATION BASED ON TRINOTATE PROTOCOL 		
 
 
-# a. Identify each trinity transcript using modified Trinotate protocol
+# a. Annotate each trinity transcript using modified Trinotate protocol
 
 03_trinotate_functional_annotation.sh
 
