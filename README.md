@@ -1,5 +1,4 @@
 ## Pipeline used in:
-
 # Gene expression profiling across ontogenetic stages in the wood white (*Leptidea sinapis*) reveals pathways linked to butterfly diapause regulation
 Luis Leal, Venkat Talla, Thomas Källman, Magne Friberg, Christer Wiklund, Vlad Dincă, Roger Vila, and Niclas Backström  
 *Molecular Ecology* 2018;00:1–14. https://doi.org/10.1111/mec.14501
