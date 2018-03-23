@@ -15,7 +15,8 @@ _____
 - Filter libraries using prinseq		
 - Filter libraries using condetri		
 - Screen libraries using fastQ Screen		
-- Reconcile paired-end libraries after using fastQ Screen (removes non-paired reads)		
+- Reconcile paired-end libraries after using fastQ Screen (removes non-paired reads)	
+
 (Note: Index fasta files as required.)	
 
 ```bash
